@@ -1,0 +1,35 @@
+subEventId,subEventName
+85,Simple pass
+83,High pass
+10,Air duel
+11,Ground attacking duel
+12,Ground defending duel
+36,Throw in
+20,Foul
+31,Free Kick
+71,Clearance
+72,Touch
+13,Ground loose ball duel
+30,Corner
+82,Head pass
+84,Launch
+70,Acceleration
+100,Shot
+86,Smart pass
+80,Cross
+90,Reflexes
+,
+81,Hand pass
+34,Goal kick
+32,Free kick cross
+21,Hand foul
+91,Save attempt
+33,Free kick shot
+40,Goalkeeper leaving line
+35,Penalty
+22,Late card foul
+27,Violent Foul
+24,Protest
+23,Out of game foul
+26,Time lost foul
+25,Simulation
